@@ -38,7 +38,7 @@ To run this app locally, follow these steps:
 
 *   Implement scientific operations (e.g., trigonometric functions, logarithms)
 *   Add a history feature to store and display past calculations
-*Introduce themes for customization
+*   Introduce themes for customization
 *   Improve accessibility features
 *   Write unit tests for the calculation logic
 
